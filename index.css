@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    margin: 30px 0px 30px 50px;
+    background-color: white;
+
+}
+.display-tab{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    height: 70px;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    width: 100%vh;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+hr{
+    size: 50px;
+    border-width: 2px;
+    border-color:rgb(167, 154, 154);
+    margin-bottom: 10px;
+}
+
+section{
+    margin: 30px 0px 10px 0px;
+}
+.tech-skill-list{
+    margin-left: 40px;
+}
+
+#core{
+    margin-top: 20px;
+}
+.year-sch{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    justify-items: center;
+    margin-bottom: 30px;
+}
+.year{
+    margin-left: 50px;
+}
+.sch{
+    margin-left: 400px;
+}
+h1{
+   margin-bottom: 10px;
+}
+.work-one{
+    display: flex;
+    flex-direction: row;
+    
+    width: 100%vh;
+    margin-bottom: 30px;
+    
+    height: 100px;
+}
+.work-one-role{
+    
+    width: 50%vh;
+    text-emphasis: bold ;
+}
+.work-one-organisa{
+    
+    width: 50%vw;
+    margin-left: 150px;
+}
+.duties{
+    margin-left: 40px;
+}
+#first-duties{
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+.heading-tab{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.certificate{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
